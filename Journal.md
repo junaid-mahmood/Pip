@@ -13,7 +13,7 @@ Explored existing builds and creative ideas for inspiration
 
 Listed potential themes: smart assistants, IoT builds, cars/drones
 
-Junaid: 1 hr
+Time: 1 hr
 
 # June 9: PIP 
 
@@ -23,4 +23,15 @@ Checked hardware compatibility and integration possibilities
 
 Compared components 
 
-Junaid: 2.5 hr
+Time: 2.5 hr
+
+
+# June 11: Started to build the CAD MODEL 
+
+here went through 2 iterations of designs and finally landed on something i liked 
+i got started adding the model of the parts (potentiometer)
+
+
+![image](https://github.com/user-attachments/assets/1056fdc7-77e3-4150-9c2c-2014dc0483bb)
+
+Time: 7h 

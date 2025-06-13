@@ -5,6 +5,8 @@ description: "Pip is a desktop assistant with inbuilt features."
 created_at: "2025-06-10"
 ---
 
+Total Time: 14h
+
 # June 8: Research
 
 Project research and brainstormed possible project directions

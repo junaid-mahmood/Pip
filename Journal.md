@@ -26,12 +26,20 @@ Compared components
 Time: 2.5 hr
 
 
-# June 11: Started to build the CAD MODEL 
-
-here went through 2 iterations of designs and finally landed on something i liked 
-i got started adding the model of the parts (potentiometer)
+  # June 11: Started to build the CAD MODEL 
+  
+  here went through 2 iterations of designs and finally landed on something i liked 
+  i got started adding the model of the parts (potentiometer)
 
 
 ![image](https://github.com/user-attachments/assets/1056fdc7-77e3-4150-9c2c-2014dc0483bb)
 
 Time: 7h 
+
+# June 13: Finished CAD model 
+
+![image](https://github.com/user-attachments/assets/e0d14abb-ba95-42f8-af57-cfbef319aef9)
+
+added all the components, made the dimensions 1:1 in real life aswell
+
+Time: 3.5h

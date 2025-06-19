@@ -19,3 +19,6 @@ Basically, all the stuff I check my phone for 100 times a day but right there on
 Raspberry Pi 3B+ with a tiny 3.5" touchscreen that sits right on top of the GPIO pins. Super clean, no extra cables for the display. I added a few rotary encoders ( sometimes I don't want to talk out loud to change the volume or brightness)
 For audio, I'm using an Anker Soundcore 2 speaker because it's durable and has wireless capabilities plus an inbuilt microphone. All inside of a custom 3d case 
 
+
+
+![image](https://github.com/user-attachments/assets/0c9aec35-1f11-4010-94a9-8e34d0ed3264)
